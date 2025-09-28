@@ -1,5 +1,5 @@
-Copyright © 2023 [Auteur du projet]
+Copyright © 2023 [Author of the Project]
 
-Permission est accordée, sans frais, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), d’utiliser le Logiciel sans restriction, y compris, sans limitation, les droits d’utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier, et/ou vendre des copies du Logiciel, et de permettre aux personnes à qui le Logiciel est fourni de le faire, sous les conditions suivantes :
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software without restriction, including, but not limited to, the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-... [suite des termes de la licence MIT] ...
+... [continued terms of the MIT license] ...
