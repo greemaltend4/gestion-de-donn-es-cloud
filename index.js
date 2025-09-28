@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-    res.send('Bienvenue dans l\'application de gestion des données Cloud !');
+    res.send('Bienvenue dans l\'application de gestion des données cloud !');
 });
 
 app.listen(PORT, () => {
