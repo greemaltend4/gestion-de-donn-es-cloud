@@ -1,6 +1,6 @@
 {
   "name": "gestion-de-données-cloud",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gestion des données à partir de plusieurs services cloud. (Data management from multiple cloud services.)",
   "main": "index.js",
   "scripts": {
